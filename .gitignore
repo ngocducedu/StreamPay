@@ -1,0 +1,10 @@
+.vercel
+
+/node_modules
+
+/dist
+/public
+/build
+
+/contract/market-contract/target
+/contract/nft-charity-contract/target
