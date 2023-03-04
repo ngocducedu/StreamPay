@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/macbook/Code/Near/stream-pay/contract/nft-contract/target/wasm32-unknown-unknown/release/build/typenum-9619202adbce29b5/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/macbook/Code/Near/stream-pay/contract/nft-contract/target/wasm32-unknown-unknown/release/build/typenum-9619202adbce29b5/out/op.rs

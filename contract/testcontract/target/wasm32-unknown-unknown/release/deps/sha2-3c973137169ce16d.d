@@ -1,0 +1,12 @@
+/Users/macbook/Code/Near/stream-pay/contract/testcontract/target/wasm32-unknown-unknown/release/deps/sha2-3c973137169ce16d.rmeta: /Users/macbook/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/lib.rs /Users/macbook/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/consts.rs /Users/macbook/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256.rs /Users/macbook/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512.rs /Users/macbook/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256/soft.rs /Users/macbook/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512/soft.rs
+
+/Users/macbook/Code/Near/stream-pay/contract/testcontract/target/wasm32-unknown-unknown/release/deps/libsha2-3c973137169ce16d.rlib: /Users/macbook/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/lib.rs /Users/macbook/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/consts.rs /Users/macbook/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256.rs /Users/macbook/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512.rs /Users/macbook/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256/soft.rs /Users/macbook/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512/soft.rs
+
+/Users/macbook/Code/Near/stream-pay/contract/testcontract/target/wasm32-unknown-unknown/release/deps/sha2-3c973137169ce16d.d: /Users/macbook/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/lib.rs /Users/macbook/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/consts.rs /Users/macbook/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256.rs /Users/macbook/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512.rs /Users/macbook/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256/soft.rs /Users/macbook/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512/soft.rs
+
+/Users/macbook/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/lib.rs:
+/Users/macbook/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/consts.rs:
+/Users/macbook/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256.rs:
+/Users/macbook/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512.rs:
+/Users/macbook/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256/soft.rs:
+/Users/macbook/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512/soft.rs:

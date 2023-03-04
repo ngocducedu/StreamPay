@@ -102,13 +102,6 @@ impl Contract {
         ).to_string().into_bytes();
 
 
-        self.process_purchase(
-            nft_contract_id,
-            token_id,
-            U128(deposit),
-            buyer_id
-        );
-
         Promise::new(
             "wrap.testnet".to_string(), // the recipient of this ActionReceipt (contract account id)
         )
@@ -131,6 +124,13 @@ impl Contract {
             roketoData,
             1,                 // amount of yoctoNEAR to attach
             200000000000000, // gas to attach
+        );
+
+        self.process_purchase(
+            nft_contract_id,
+            token_id,
+            U128(deposit),
+            buyer_id
         );
     }
 
